@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 import Header from "./Header";
 import Home from "./home/components";
-import News from "./news/containers";
+import News from "./news/components";
 
 const App = () => {
   return (
